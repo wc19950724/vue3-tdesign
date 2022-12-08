@@ -1,0 +1,44 @@
+{
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "volar.autoCompleteRefs": true,
+    "editor.mouseWheelZoom": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.tabSize": 4,
+    "eslint.format.enable": true,
+    "editor.formatOnSave": true,
+    "eslint.validate": [
+        "javascript",
+        "ts",
+        "vue"
+    ],
+    "files.eol": "\n",
+    "files.exclude": {
+        ".husky": true,
+        ".vscode": false,
+        "*.lock": true,
+    },
+}
